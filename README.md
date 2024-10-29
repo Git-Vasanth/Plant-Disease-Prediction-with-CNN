@@ -34,6 +34,13 @@ The dataset utilized for this project is sourced from the [Plant Village Dataset
 
 9. **Screenshots of Performance**
    - Include screenshots showcasing the model’s predictions, user interface, and overall performance metrics, highlighting the effectiveness of the Plant Disease Prediction Initiative.
+  
+10. **Report**
+    - For a comprehensive overview of the methodology, findings, and detailed analysis, please refer to the full project report linked below:
+      
+      [I want to See the Report]([https://drive.google.com/file/d/1M7x86ugvEx1r1B445u3huVkUA2TJOBSd/view?usp=drive_link](https://drive.google.com/file/d/1euTxHE-1SHAQJI0L6z4TPsbhdHXtUEyn/view?usp=drive_link)) 
+
+      [Download Full Report]([Vasanth_plant.pdf](https://github.com/user-attachments/files/17550290/Vasanth_plant.pdf)
 
 ## Conclusion
 The Plant Disease Prediction Initiative aims to empower agricultural stakeholders with advanced technology for early disease detection. By leveraging CNNs and providing a user-friendly interface, this project contributes to improved agricultural practices and crop management.
