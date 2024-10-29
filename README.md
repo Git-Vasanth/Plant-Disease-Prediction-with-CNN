@@ -35,6 +35,14 @@ The CNN model effectively predicts plant diseases, providing an accuracy of **88
 - Expand the dataset to include more plant species and diseases.
 - Implement real-time prediction capabilities for practical field use.
 
+## Full Report
+
+For a comprehensive overview of the methodology, findings, and detailed analysis, please refer to the full project report linked below:
+
+[I want to See the Report](https://drive.google.com/file/d/1euTxHE-1SHAQJI0L6z4TPsbhdHXtUEyn/view?usp=drive_link) 
+
+[Download Full Report]([Vasanth_plant.pdf](https://github.com/user-attachments/files/17550470/Vasanth_plant.pdf))
+
 ![Test image 1](https://github.com/user-attachments/assets/a8fdf76f-fe90-4dcc-b35a-52245166da44)
 
 ![Test image 2](https://github.com/user-attachments/assets/d7613f5e-3f70-4be5-9a4a-d9ca530cbc0f)
