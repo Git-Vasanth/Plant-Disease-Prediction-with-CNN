@@ -1,30 +1,34 @@
 # Plant Disease Prediction with CNN
 
-This project is about building an Image classifier CNN with Python on Plant Disease Prediction
+This project focuses on building an image classifier using Convolutional Neural Networks (CNN) for predicting plant diseases.
 
-Dataset Source : [Plant Village Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+## Dataset Source
+The dataset used for this project is the **Plant Village Dataset**, which contains images of healthy and diseased plants across 38 different classes.
 
 ## Project Outline
 
-**1. Data Extraction**
+| Step | Description |
+|------|-------------|
+| **1. Data Extraction** | Extract images from the Plant Village dataset organized by plant species and disease. |
+| **2. Data Preprocessing** | Resize images to 224x224 pixels and apply data augmentation techniques. |
+| **3. Data Preparation for Model Building** | Split dataset into training (80%) and validation (20%) sets using image data generators. |
+| **4. Model Building with CNN** | Construct a CNN model with convolutional and dense layers for classification. |
+| **5. Model Training** | Train the model for 5 epochs, achieving a validation accuracy of **88.11%**. |
+| **6. Model Evaluation** | Evaluate model performance with accuracy and loss metrics. |
+| **7. Building a Predictive System** | Develop a function to preprocess images and predict plant disease classes. |
+| **8. Deployment Using Streamlit App** | Deploy the model through a Streamlit application for user interaction. |
 
-**2. Data Preprocessing**
+## Performance Metrics
+- **Validation Accuracy**: **88.11%**
+- **Validation Loss**: **0.5387**
 
-**3. Data Preparation for model building**
+## Conclusion
+The CNN model effectively predicts plant diseases, providing an accuracy of **88.11%**. The Streamlit application facilitates easy interaction, enabling users to quickly assess plant health.
 
-**4. Model Building with CNN**
-
-**5. Model Training**
-
-**5. Model Evaluation**
-
-My Model scored **88.11** Accuracy 
-
-**6. Building a predictive System**
-
-**7. Deployment using streamlit App**
-
-**8. Screenshots of Performance**
+## Future Work
+- Explore transfer learning for improved model accuracy.
+- Expand the dataset to include more plant species and diseases.
+- Implement real-time prediction capabilities for practical field use.
 
 ![Test image 1](https://github.com/user-attachments/assets/a8fdf76f-fe90-4dcc-b35a-52245166da44)
 
