@@ -41,7 +41,7 @@ For a comprehensive overview of the methodology, findings, and detailed analysis
 
 [I want to See the Report](https://drive.google.com/file/d/1euTxHE-1SHAQJI0L6z4TPsbhdHXtUEyn/view?usp=drive_link) 
 
-[Download Full Report]([Vasanth_plant.pdf](https://github.com/user-attachments/files/17550470/Vasanth_plant.pdf))
+[Download Full Report](https://github.com/user-attachments/files/17550470/Vasanth_plant.pdf)
 
 ![Test image 1](https://github.com/user-attachments/assets/a8fdf76f-fe90-4dcc-b35a-52245166da44)
 
