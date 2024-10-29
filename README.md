@@ -2,21 +2,30 @@
 
 This project focuses on building an image classifier using Convolutional Neural Networks (CNN) for predicting plant diseases.
 
+# Plant Disease Prediction with CNN
+
+This project focuses on building an image classifier using Convolutional Neural Networks (CNN) for predicting plant diseases.
+
 ## Dataset Source
-The dataset used for this project is the **Plant Village Dataset**, which contains images of healthy and diseased plants across 38 different classes.
+The dataset used for this project is the **Plant Village Dataset**, which contains images of healthy and diseased plants across 38 different classes. You can find the dataset [here](https://github.com/spMohanty/PlantVillage-Dataset).
 
 ## Project Outline
 
-| Step | Description |
-|------|-------------|
-| **1. Data Extraction** | Extract images from the Plant Village dataset organized by plant species and disease. |
-| **2. Data Preprocessing** | Resize images to 224x224 pixels and apply data augmentation techniques. |
-| **3. Data Preparation for Model Building** | Split dataset into training (80%) and validation (20%) sets using image data generators. |
-| **4. Model Building with CNN** | Construct a CNN model with convolutional and dense layers for classification. |
-| **5. Model Training** | Train the model for 5 epochs, achieving a validation accuracy of **88.11%**. |
-| **6. Model Evaluation** | Evaluate model performance with accuracy and loss metrics. |
-| **7. Building a Predictive System** | Develop a function to preprocess images and predict plant disease classes. |
-| **8. Deployment Using Streamlit App** | Deploy the model through a Streamlit application for user interaction. |
+1. **Data Extraction**: Extract images from the Plant Village dataset organized by plant species and disease.
+   
+2. **Data Preprocessing**: Resize images to 224x224 pixels and apply data augmentation techniques.
+   
+3. **Data Preparation for Model Building**: Split the dataset into training (80%) and validation (20%) sets using image data generators.
+   
+4. **Model Building with CNN**: Construct a CNN model with convolutional and dense layers for classification.
+   
+5. **Model Training**: Train the model for 5 epochs, achieving a validation accuracy of **88.11%**.
+   
+6. **Model Evaluation**: Evaluate model performance with accuracy and loss metrics.
+   
+7. **Building a Predictive System**: Develop a function to preprocess images and predict plant disease classes.
+   
+8. **Deployment Using Streamlit App**: Deploy the model through a Streamlit application for user interaction.
 
 ## Performance Metrics
 - **Validation Accuracy**: **88.11%**
