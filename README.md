@@ -2,10 +2,6 @@
 
 This project focuses on building an image classifier using Convolutional Neural Networks (CNN) for predicting plant diseases.
 
-# Plant Disease Prediction with CNN
-
-This project focuses on building an image classifier using Convolutional Neural Networks (CNN) for predicting plant diseases.
-
 ## Dataset Source
 The dataset used for this project is the **Plant Village Dataset**, which contains images of healthy and diseased plants across 38 different classes. You can find the dataset [here](https://github.com/spMohanty/PlantVillage-Dataset).
 
